@@ -1,1 +1,1 @@
-![Hoshify](logo1_white.png)
+![Hoshify](profile/logo1_white.png)
